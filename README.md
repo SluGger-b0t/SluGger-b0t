@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on frontend development projects
 - 🌱 I’m currently learning backend programming
-- 🤔 I’m looking for help with backend <br>
+- 🤔 I’m looking for help with backend and more frontend projects <br>
 
 
 ## 🌐 Socials:
