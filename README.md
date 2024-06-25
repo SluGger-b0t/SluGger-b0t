@@ -1,7 +1,7 @@
 # 💫 About Me: 
 
-- 🔭 I’m currently working on frontend development projects
-- 🌱 I’m currently learning backend programming
+- 🔭 I’m a college student doing CSE in Manipal Institue of Tech.
+- 🌱 I’m currently working on MERN stack projects
 - 🤔 I’m looking for help with backend and more frontend projects <br>
 
 
